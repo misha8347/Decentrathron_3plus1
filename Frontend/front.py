@@ -7,7 +7,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import Backend.back as back
 
 # Основной интерфейс
-st.title("Text")
+st.title("3Plus1")
 
 # Поле для ввода текста
 text_input = st.text_area("Введите текст")
